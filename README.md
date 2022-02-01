@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidaucoin7377
-- 👀 I’m interested in how to program computers and unlocking cell phones. Also how to use the block chain , mining coins?
+- 👀 I’m interested in learning how to claim my tokens and connect wallets on etherscan using dex . Also how to use the block chain , mining coins?
 - 🌱 I’m currently learning how to use polygonscan, etherscan ,dex .
 I want to learn all about submitting tokens and reclaiming my wallets on coin base.
  How do you copy and submit ? 
